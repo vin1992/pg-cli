@@ -1,6 +1,6 @@
 {
   "name": "cli",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "pg-cli 构建项目工具",
   "main": "lib/Service.js",
   "bin": {
