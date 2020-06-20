@@ -1,0 +1,11 @@
+{
+  "name": "pg-cli-plugin-service",
+  "version": "1.0.0",
+  "description": "插件集成 @vue/cli-service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vin1992@gmail.com",
+  "license": "MIT"
+}

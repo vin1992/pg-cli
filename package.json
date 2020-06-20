@@ -1,0 +1,28 @@
+{
+  "name": "pg-cli",
+  "version": "1.0.0",
+  "description": "快速搭建demo项目的脚手架，支持 普通html+css+js , vue, react，node 等",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vin1992/pg-cli.git"
+  },
+  "keywords": [
+    "pg",
+    "cli",
+    "playground",
+    "demo"
+  ],
+  "author": "vin_coder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vin1992/pg-cli/issues"
+  },
+  "homepage": "https://github.com/vin1992/pg-cli#readme",
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
