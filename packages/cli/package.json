@@ -1,6 +1,6 @@
 {
-  "name": "pg-cli",
-  "version": "0.0.2",
+  "name": "vin-pg-cli",
+  "version": "0.0.3",
   "description": "pg-cli 构建项目工具",
   "main": "lib/Service.js",
   "bin": {
@@ -51,5 +51,5 @@
   "engines": {
     "node": ">=8.9"
   },
-  "gitHead": "a4416382c4fdabe6dce5a697bb0f6b2fa6bad3cc"
+  "gitHead": "a6502294e6042d5df9d339c9150b0ef81cf0e429"
 }
