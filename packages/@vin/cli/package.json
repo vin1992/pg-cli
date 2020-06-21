@@ -1,6 +1,6 @@
 {
-  "name": "pg-cli",
-  "version": "0.0.5",
+  "name": "@vin/pg-cli",
+  "version": "0.0.6",
   "description": "pg-cli 构建项目工具",
   "main": "lib/Service.js",
   "bin": {
@@ -24,6 +24,9 @@
     "jquery",
     "bootstrap"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "vin_coder",
   "license": "MIT",
   "bugs": {
