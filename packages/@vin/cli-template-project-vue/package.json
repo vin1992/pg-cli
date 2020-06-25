@@ -1,6 +1,6 @@
 {
   "name": "@vin/cli-template-project-vue",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "vue项目模板文件",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,5 @@
     "url": "https://github.com/vin1992/pg-cli/issues"
   },
   "homepage": "https://github.com/vin1992/pg-cli#readme",
-  "gitHead": "0aa7386784090ceb82de5f360f34afe992a73ffa"
+  "gitHead": "f019ed348a1bc713ab712644395bbe7a25859dbc"
 }
