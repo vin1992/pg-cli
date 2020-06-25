@@ -1,7 +1,7 @@
 {
   "packages": [
-    "packages/@kara/cli*"
+    "packages/@vin_coder/cli*"
   ],
-  "version": "0.0.33",
+  "version": "0.0.34",
   "npmClient": "yarn"
 }
