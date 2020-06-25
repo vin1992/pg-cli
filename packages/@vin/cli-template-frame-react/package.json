@@ -1,0 +1,29 @@
+{
+  "name": "@vin/cli-template-frame-react",
+  "version": "0.0.13",
+  "description": "react 框架模版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vin1992/pg-cli.git"
+  },
+  "keywords": [
+    "pg-cli",
+    "pg-cli-template",
+    "pg-cli-template-frame",
+    "react"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "vincoder1992@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vin1992/pg-cli/issues"
+  },
+  "homepage": "https://github.com/vin1992/pg-cli#readme",
+  "gitHead": "5dcfce993651c1039b233c0ececa181db421340e"
+}
