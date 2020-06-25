@@ -1,6 +1,6 @@
 {
   "name": "@vin/pg-cli-plugin-service",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "description": "插件集成 @vue/cli-service",
   "main": "index.js",
   "publishConfig": {
