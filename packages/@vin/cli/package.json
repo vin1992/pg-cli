@@ -1,9 +1,9 @@
 {
-  "name": "@vin/cli",
-  "version": "0.0.18",
+  "name": "@vin/pg-cli",
+  "version": "0.0.30",
   "description": "pg-cli 构建项目工具",
   "bin": {
-    "pg": "./bin/pg-cli.js"
+    "pg": "bin/pg-cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,7 +26,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "author": "vin_coder",
+  "author": "vincoder1992@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vin1992/pg-cli/issues"
@@ -54,5 +54,5 @@
   "engines": {
     "node": ">=8.9"
   },
-  "gitHead": "2076d179117d0d2e1c51efde37afea5a31409406"
+  "gitHead": "b6f58459fa0824897fb4a544b744d7e18f880e83"
 }
