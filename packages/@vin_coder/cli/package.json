@@ -1,6 +1,6 @@
 {
   "name": "@vin_coder/pg-cli",
-  "version": "0.0.34",
+  "version": "0.0.35",
   "description": "pg-cli 构建项目工具",
   "bin": {
     "pg": "bin/pg-cli.js"

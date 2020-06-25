@@ -1,6 +1,6 @@
 {
   "name": "@vin_coder/pg-cli-template-project-react",
-  "version": "0.0.34",
+  "version": "0.0.35",
   "description": "react 项目模板文件",
   "main": "index.js",
   "scripts": {
