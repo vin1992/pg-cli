@@ -1,6 +1,6 @@
 {
   "name": "@vin/cli-template-project-react",
-  "version": "0.0.16",
+  "version": "0.0.18",
   "description": "react 项目模板文件",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,5 @@
     "url": "https://github.com/vin1992/pg-cli/issues"
   },
   "homepage": "https://github.com/vin1992/pg-cli#readme",
-  "gitHead": "f019ed348a1bc713ab712644395bbe7a25859dbc"
+  "gitHead": "2076d179117d0d2e1c51efde37afea5a31409406"
 }
