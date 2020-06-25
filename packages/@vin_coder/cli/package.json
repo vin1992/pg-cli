@@ -1,0 +1,58 @@
+{
+  "name": "@vin_coder/pg-cli",
+  "version": "0.0.29",
+  "description": "pg-cli 构建项目工具",
+  "bin": {
+    "pg": "bin/pg-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vin1992/pg-cli.git"
+  },
+  "keywords": [
+    "pg-cli",
+    "playground",
+    "cli",
+    "cli-service",
+    "vue",
+    "react",
+    "node",
+    "jquery",
+    "bootstrap"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "vincoder1992@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vin1992/pg-cli/issues"
+  },
+  "homepage": "https://github.com/vin1992/pg-cli#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^5.0.0",
+    "deepmerge": "^4.2.2",
+    "ejs": "^3.0.2",
+    "execa": "^4.0.0",
+    "fs-extra": "^9.0.0",
+    "globby": "^11.0.0",
+    "inquirer": "^7.1.0",
+    "isbinaryfile": "^4.0.6",
+    "lodash.clonedeep": "^4.5.0",
+    "minimist": "^1.2.5",
+    "resolve": "^1.15.1",
+    "semver": "^7.1.3",
+    "slash": "^3.0.0",
+    "translate-google": "^1.3.5",
+    "validate-npm-package-name": "^3.0.0",
+    "yaml-front-matter": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=8.9"
+  },
+  "gitHead": "b6f58459fa0824897fb4a544b744d7e18f880e83"
+}

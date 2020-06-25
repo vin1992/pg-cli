@@ -1,8 +1,7 @@
 {
   "packages": [
-    "packages/@pg/cli*"
+    "packages/@vin_coder/cli*"
   ],
-  "useWorkspaces": true,
-  "version": "0.0.26",
+  "version": "0.0.29",
   "npmClient": "yarn"
 }
