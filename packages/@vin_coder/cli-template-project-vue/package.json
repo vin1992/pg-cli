@@ -1,6 +1,6 @@
 {
   "name": "@vin_coder/pg-cli-template-project-vue",
-  "version": "0.0.35",
+  "version": "0.0.36",
   "description": "vue项目模板文件",
   "main": "index.js",
   "scripts": {
