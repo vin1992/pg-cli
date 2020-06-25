@@ -1,0 +1,29 @@
+{
+  "name": "@kara/pg-cli-template-project-vue",
+  "version": "0.0.33",
+  "description": "vue项目模板文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vin1992/pg-cli.git"
+  },
+  "keywords": [
+    "pg-cli",
+    "pg-cli-template",
+    "pg-cli-template-project",
+    "vue"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "vincoder1992@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vin1992/pg-cli/issues"
+  },
+  "homepage": "https://github.com/vin1992/pg-cli#readme",
+  "gitHead": "d8a14e836333a7f7dd8f630e44071e91db51860c"
+}
