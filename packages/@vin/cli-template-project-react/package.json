@@ -1,6 +1,6 @@
 {
   "name": "@vin/cli-template-project-react",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "react 项目模板文件",
   "main": "index.js",
   "scripts": {

@@ -1,6 +1,6 @@
 {
   "name": "@vin/cli-template-project-vue",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "vue项目模板文件",
   "main": "index.js",
   "scripts": {

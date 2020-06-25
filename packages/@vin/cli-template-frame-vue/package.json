@@ -1,6 +1,6 @@
 {
   "name": "@vin/cli-template-frame-vue",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "vue 框架模板",
   "main": "index.js",
   "scripts": {

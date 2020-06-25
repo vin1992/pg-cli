@@ -1,6 +1,6 @@
 {
-  "name": "@pg/cli-service",
-  "version": "0.0.13",
+  "name": "@vin/cli-service",
+  "version": "0.0.14",
   "description": "pg-cli 提供打包构建部署服务",
   "main": "index.js",
   "bin": {
