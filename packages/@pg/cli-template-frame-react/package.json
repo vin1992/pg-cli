@@ -1,6 +1,6 @@
 {
   "name": "@pg/cli-template-frame-react",
-  "version": "0.0.24",
+  "version": "0.0.25",
   "description": "react 框架模版",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,5 @@
     "url": "https://github.com/vin1992/pg-cli/issues"
   },
   "homepage": "https://github.com/vin1992/pg-cli#readme",
-  "gitHead": "88644dfbd1e3f163a8c27817cdc700d84e9515e5"
+  "gitHead": "08e2ea9c8a27a567a8d6523013a8d8451085cdf8"
 }
