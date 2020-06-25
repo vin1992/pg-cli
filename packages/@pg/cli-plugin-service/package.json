@@ -1,0 +1,15 @@
+{
+  "name": "@pg/cli-plugin-service",
+  "version": "0.0.7",
+  "description": "插件集成 @vue/cli-service",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vin1992@gmail.com",
+  "license": "MIT",
+  "gitHead": "5c0470b236f09d95cf98a57528c4b93451801282"
+}
