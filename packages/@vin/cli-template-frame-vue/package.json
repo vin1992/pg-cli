@@ -1,6 +1,6 @@
 {
   "name": "@vin/pg-cli-template-frame-vue",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "description": "vue 框架模板",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,5 @@
     "url": "https://github.com/vin1992/pg-cli/issues"
   },
   "homepage": "https://github.com/vin1992/pg-cli#readme",
-  "gitHead": "b6f58459fa0824897fb4a544b744d7e18f880e83"
+  "gitHead": "49569207ff0a065791055fa9ce8de47cfbb82135"
 }

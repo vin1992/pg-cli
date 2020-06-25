@@ -1,6 +1,6 @@
 {
   "name": "@vin/pg-cli-service",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "description": "pg-cli 提供打包构建部署服务",
   "main": "index.js",
   "bin": {
@@ -97,5 +97,6 @@
     "vue-router": "^3.0.6",
     "vue-template-compiler": "^2.6.10",
     "vuex": "^3.0.1"
-  }
+  },
+  "gitHead": "49569207ff0a065791055fa9ce8de47cfbb82135"
 }
