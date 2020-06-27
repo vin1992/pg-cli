@@ -1,6 +1,6 @@
 {
   "name": "@vin_coder/pg-cli-service",
-  "version": "0.0.37",
+  "version": "0.0.38",
   "description": "pg-cli 提供打包构建部署服务",
   "main": "./lib/Service.js",
   "bin": {
@@ -31,11 +31,6 @@
   "dependencies": {
     "@intervolga/optimize-cssnano-plugin": "^1.0.5",
     "@soda/friendly-errors-webpack-plugin": "^1.7.1",
-    "@vue/cli-overlay": "^4.0.0-rc.0",
-    "@vue/cli-shared-utils": "^4.0.0-rc.0",
-    "@vue/component-compiler-utils": "^3.0.0",
-    "@vue/preload-webpack-plugin": "^1.1.0",
-    "@vue/web-component-wrapper": "^1.2.0",
     "acorn": "^6.1.1",
     "acorn-walk": "^6.1.1",
     "address": "^1.1.0",
@@ -86,17 +81,8 @@
     "webpack-dev-server": "^3.4.1",
     "webpack-merge": "^4.2.1"
   },
-  "peerDependencies": {
-    "vue-template-compiler": "^2.0.0"
-  },
   "devDependencies": {
-    "fibers": "^4.0.2",
-    "sass": "^1.19.0",
-    "sass-loader": "^7.1.0",
-    "vue": "^2.6.10",
-    "vue-router": "^3.0.6",
-    "vue-template-compiler": "^2.6.10",
-    "vuex": "^3.0.1"
+    "fibers": "^4.0.2"
   },
   "gitHead": "d98a4b1ec04d3ccb99c35b006474e7bf6007c637"
 }
