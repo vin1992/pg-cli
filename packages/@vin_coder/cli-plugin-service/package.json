@@ -1,6 +1,6 @@
 {
   "name": "@vin_coder/pg-cli-plugin-service",
-  "version": "0.0.39",
+  "version": "0.0.40",
   "description": "插件集成 @vue/cli-service",
   "main": "index.js",
   "publishConfig": {
@@ -11,5 +11,5 @@
   },
   "author": "vincoder1992@gmail.com",
   "license": "MIT",
-  "gitHead": "d98a4b1ec04d3ccb99c35b006474e7bf6007c637"
+  "gitHead": "c8ea27ca8723c3d6ecfc8cbde677d7054b39bef9"
 }
