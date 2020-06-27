@@ -1,6 +1,6 @@
 {
   "name": "@vin_coder/pg-cli-template-frame-vue",
-  "version": "0.0.38",
+  "version": "0.0.39",
   "description": "vue 框架模板",
   "main": "index.js",
   "scripts": {
